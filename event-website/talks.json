@@ -1,0 +1,55 @@
+[
+  {
+    "time": "10:00 - 11:00",
+    "title": "The Future of Artificial Intelligence",
+    "speakers": ["Jane Doe"],
+    "category": ["AI"],
+    "duration": "1 hour",
+    "description": "A deep dive into the latest advancements in AI and what to expect in the coming years."
+  },
+  {
+    "time": "11:10 - 12:10",
+    "title": "Securing Your Cloud Infrastructure",
+    "speakers": ["John Smith", "Emily Jones"],
+    "category": ["Cloud Security"],
+    "duration": "1 hour",
+    "description": "Best practices for securing your cloud environment against common threats."
+  },
+  {
+    "time": "12:20 - 13:20",
+    "title": "Mastering DevOps: A Guide to Automation",
+    "speakers": ["Peter Pan"],
+    "category": ["DevOps"],
+    "duration": "1 hour",
+    "description": "Learn how to automate your development pipeline for faster and more reliable deployments."
+  },
+  {
+    "time": "13:20 - 14:20",
+    "type": "break",
+    "title": "Lunch Break"
+  },
+  {
+    "time": "14:20 - 15:20",
+    "title": "AI in Modern Applications",
+    "speakers": ["Samantha Bee"],
+    "category": ["AI"],
+    "duration": "1 hour",
+    "description": "Exploring the practical applications of AI in today's software."
+  },
+  {
+    "time": "15:30 - 16:30",
+    "title": "Advanced DevOps Techniques",
+    "speakers": ["Mike Chan", "Lisa Ray"],
+    "category": ["DevOps", "AI"],
+    "duration": "1 hour",
+    "description": "A look at advanced strategies for infrastructure as code and CI/CD."
+  },
+  {
+    "time": "16:40 - 17:40",
+    "title": "The Zero-Trust Model in Cloud Security",
+    "speakers": ["David Chen"],
+    "category": ["Cloud Security", "DevOps"],
+    "duration": "1 hour",
+    "description": "Understanding and implementing a zero-trust security model in the cloud."
+  }
+]
